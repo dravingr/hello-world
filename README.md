@@ -1,3 +1,3 @@
 # hello-world
 
-Hi Humans! I'm Ryan, working towards the marketing singularity.
+Hi Aliens! I'm Ryan, working towards the marketing singularity.
