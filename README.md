@@ -1,2 +1,3 @@
 # hello-world
-learning git
+
+Hi Humans! I'm Ryan, working towards the marketing singularity.
